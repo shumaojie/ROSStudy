@@ -1,7 +1,34 @@
 #Ros学习笔记#
+ROS当前领域最先进的机器人软件
+##学习资料##
 官网：http://www.ros.org/
 最新版安装 http://wiki.ros.org/indigo/Installation/Ubuntu
 易科机器人工作室：http://blog.exbot.net/archives/899
+
+
+
+##技术点##
+1. 人脸识别
+2. 自主导航
+3. 语音识别
+4. 导航定位SLAM
+5. 3D物体识别
+6. 动作规划
+7. 多关节机械臂运动规划
+ 
+
+
+ ##硬件##
+1. 深度照相机
+2. 激光扫描仪/激光雷达
+
+
+
+
+
+##安装##
+1. 在树莓派ubuntu16.04安装
+2. 在PC上ubuntu16.04安装
 
 
 
